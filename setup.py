@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-pipeline-compass-rubygem',
-    version='0.1.10-csm.1',
+    version='0.1.9.post1+cloudsmith',
     description='django-pipeline-compass-rubygem is a Compass compiler for django-pipeline using the original Compass Ruby Gem.',
     long_description=open('README.rst').read(),
     author='Patrick Stadler',
