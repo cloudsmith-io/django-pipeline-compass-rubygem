@@ -1,14 +1,11 @@
 # -*- coding: utf-8 -*-
 from setuptools import setup, find_packages
 
-description = """
-django-pipeline-compass-rubygem is a Compass compiler for django-pipeline using the original Compass Ruby Gem.
-"""
 
 setup(
     name='django-pipeline-compass-rubygem',
-    version='0.1.9',
-    description=description,
+    version='0.1.10-csm.1',
+    description='django-pipeline-compass-rubygem is a Compass compiler for django-pipeline using the original Compass Ruby Gem.',
     long_description=open('README.rst').read(),
     author='Patrick Stadler',
     author_email='patrick.stadler@gmail.com',
